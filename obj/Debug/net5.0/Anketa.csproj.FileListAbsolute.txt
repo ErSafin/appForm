@@ -1,0 +1,16 @@
+D:\Anketa\Anketa\bin\Debug\net5.0\Anketa.exe
+D:\Anketa\Anketa\bin\Debug\net5.0\Anketa.deps.json
+D:\Anketa\Anketa\bin\Debug\net5.0\Anketa.runtimeconfig.json
+D:\Anketa\Anketa\bin\Debug\net5.0\Anketa.runtimeconfig.dev.json
+D:\Anketa\Anketa\bin\Debug\net5.0\Anketa.dll
+D:\Anketa\Anketa\bin\Debug\net5.0\ref\Anketa.dll
+D:\Anketa\Anketa\bin\Debug\net5.0\Anketa.pdb
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.csprojAssemblyReference.cache
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.AssemblyInfoInputs.cache
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.AssemblyInfo.cs
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.csproj.CoreCompileInputs.cache
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.dll
+D:\Anketa\Anketa\obj\Debug\net5.0\ref\Anketa.dll
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.pdb
+D:\Anketa\Anketa\obj\Debug\net5.0\Anketa.genruntimeconfig.cache
