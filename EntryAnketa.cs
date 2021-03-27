@@ -113,8 +113,8 @@ public partial class EntryAnketa
                                 Console.WriteLine("Введите число.");
                             }
                             break;
-                        case 4: // мобильный телефон
-                            if (int.TryParse(text, out int NumPh))
+                        case 4: // мобильный телефон возможен ввод 8-800 CALL ME
+                            if (char.IsNumber(text, 0))
                             {
                                 Ans[numQ] = text;
                             }
@@ -129,7 +129,7 @@ public partial class EntryAnketa
 
                 }
                 Ans[numQ] = text;
-                text = "";
+                text = null;
                 numQ += 1;
             }
             Console.WriteLine("Сохранить анкету: Y / N ?");
